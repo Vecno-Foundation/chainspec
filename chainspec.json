@@ -1,7 +1,7 @@
 {
   "name": "vecno",
   "engine": {
-    "EthashB3": {
+    "ethashb3": {
       "params": {
         "blockReward": {
           "0x0": "0x7C6BCA9B3E800000",
