@@ -1,5 +1,5 @@
 {
-  "name": "Vecno Mainnet",
+  "name": "vecno",
   "engine": {
     "EthashB3": {
       "params": {
