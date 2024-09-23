@@ -1,7 +1,7 @@
 {
   "name": "Vecno Mainnet",
   "engine": {
-    "Ethashb3": {
+    "EthashB3": {
       "params": {
         "blockReward": {
           "0x0": "0x7C6BCA9B3E800000",
