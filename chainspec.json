@@ -1,17 +1,20 @@
 {
   "name": "vecno",
+  "dataDir": "vecno",
   "engine": {
     "ethashb3": {
       "params": {
         "blockReward": {
-          "0x0": "0x7C6BCA9B3E800000",
-          "0x3C4B34": "0x3CB3988D86BA80B0",
-          "0x502110": "0x3CB1882DA5D89E3A",
-          "0x645E9C": "0x3C911E907F0CDA42",
-          "0x786C48": "0x3C6FD24C3165C800",
-          "0x8C79E4": "0x3C4ED6B3A7840000",
-          "0xA08680": "0x3C2E1401F0A93800"
-        }
+          "0x0": "0x2153e468b91c6d1",
+          "0x3c30fc": "0x4f445fb506",
+          "0x504150": "0x2f21eaedcb"
+        },
+    "params": {
+		  "gasLimitBoundDivisor": "0x400",
+      "maximumExtraDataSize": "0x20",
+		  "minGasLimit": "0x1388",
+      "maxCodeSize": "0x6000",
+		  "networkID": "0xff4d",
       }
     }
   }
