@@ -8,11 +8,7 @@
           "0x0": "0x2153e468b91c6d1",
           "0x3c30fc": "0x4f445fb506",
           "0x504150": "0x2f21eaedcb"
-        },
-        "gasLimitBoundDivisor": "0x400",
-        "maximumExtraDataSize": "0x20",
-        "minGasLimit": "0x1388",
-        "maxCodeSize": "0x6000",
+        }
       }
     }
   },
